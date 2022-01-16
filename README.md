@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ulims
-- 👀 I’m interested in ui/ux design
+- 👀 Design is what you see. But i see user experience
 - 🌱 I’m currently working as   ... Ui/ux designer
-- 💞️ I’m looking to collaborate on more designs
+- 💞️ I hate bad user experience
 - 📫 How to reach me ...
 You can reach me on my email: ulimhukaakem@gmail.com
 Twitter: @ulims_fecart
