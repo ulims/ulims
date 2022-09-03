@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ahero
-- 👀 We are building a business workspace
-- 🌱 We are a team of 9 members
-- 💞️ We hate bad user experience
+- 👋 Hi, I’m @ulims
+- 👀 I am mobile developer with flutter and UX designer
+- 🌱 I love mobile development
+- 💞️ And hate bad user experience
 - 📫 How to reach me ...
-You can reach me on my email:
+You can reach me on my email: ulimhukaakem@gmail.com
 Twitter: @coming soon
 <!---
 ulims/ulims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
