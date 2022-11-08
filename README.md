@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer and Designer(Flutter and Figma)
 ------------------------------------------------
 
-I am currently building two fintech products with Flutter, Firebase and Figma(FF&F). Exploring dart programming language is number one priority and i wish to do do more with dart programming language.
+I am currently building two fintech products with Flutter, Firebase and Figma(FF&F). Exploring dart programming language is my number one priority and i wish to do do more with dart programming language.
 
 * 🌍  I'm based in Calabar, Nigeria
 * ✉️  You can contact me at [ulimhukaakem@gmail.com](mailto:ulimhukaakem@gmail.com)
 * 🚀  I'm currently working on [Cospace](http://cospace.com)
 * 🧠  I'm learning Dart and Flutter
 * 🤝  I'm open to collaborating on Dart Projects
-* ⚡  I love design and implemeting design in flutter. Thanks to flutter, i can build for so many platforms from one codebase
+* ⚡  I love designing, animating and writing code.
 
 <a href="https://www.twitter.com/Agbama_Gifted" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Agbama_Gifted?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -23,8 +23,8 @@ src="https://img.shields.io/github/followers/ulims?logo=github&style=for-the-bad
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
