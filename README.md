@@ -8,8 +8,8 @@ I am currently building two fintech products with Flutter, Firebase and Figma(FF
 
 * 🌍  I'm based in Calabar, Nigeria
 * ✉️  You can contact me at [ulimhukaakem@gmail.com](mailto:ulimhukaakem@gmail.com)
-* 🚀  I'm currently working on [NewDay](http://agbama.vzy.io/)
-* 🧠  I'm learning Dart and Flutter
+* 🚀  I'm currently working on [UseCrim](http://agbama.vzy.io/)
+* 🧠  I'm doing so much with dart and javascript
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  I love working with you.
 
