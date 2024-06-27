@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agbama Ulimhuka
 =======================================================================================================================================
 
-Mobile Developer and Designer(Flutter and Figma)
+Design Engineer
 ------------------------------------------------
 
-I am currently building two fintech products with Flutter, Firebase and Figma(FF&F). Exploring dart programming language is my number one priority and i wish to do do more with dart programming language.
+I'm doing my best and leaving the rest for my Next of Kin. 
 
 * 🌍  I'm based in Calabar, Nigeria
 * ✉️  You can contact me at [ulimhukaakem@gmail.com](mailto:ulimhukaakem@gmail.com)
-* 🚀  I'm currently working on [UseCrim](http://agbama.vzy.io/)
-* 🧠  I'm doing so much with dart and javascript
+* 🚀  I'm currently working as a Design Engineer
+* 🧠  I'm doing so much with Dart,Kotlin, Javascript and Typescript
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  I love working with you.
 
