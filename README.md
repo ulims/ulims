@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agbama Ulimhuka
 =======================================================================================================================================
 
-Design Engineer
+Software Engineer
 ------------------------------------------------
 
 I'm doing my best and leaving the rest for my Next of Kin. 
 
 * 🌍  I'm based in Calabar, Nigeria
 * ✉️  You can contact me at [ulimhukaakem@gmail.com](mailto:ulimhukaakem@gmail.com)
-* 🚀  I'm currently working as a Design Engineer
-* 🧠  I'm doing so much with Dart,Kotlin, Javascript and Typescript
+* 🚀  I'm currently working as a Software Engineer and Designer
+* 🧠  I'm doing so much with Flutter,Vue.js,Figma and Nodejs
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  I love working with you.
 
