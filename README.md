@@ -104,9 +104,4 @@ src="https://img.shields.io/github/followers/ulims?logo=github&style=for-the-bad
 
 <a href="http://www.github.com/ulims"><img src="https://activity-graph.herokuapp.com/graph?username=ulims&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ulims" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulims&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-<a href="https://app.daily.dev/ulims"><img src="https://api.daily.dev/devcards/b8378dd535ff4351a628c44725e1c65f.png?r=w4r" width="400" alt="Agbama Ulimhuka Akem's Dev Card"/></a>
