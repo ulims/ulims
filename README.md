@@ -129,19 +129,7 @@
   <br/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ulims&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulims&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_radius=12" alt="GitHub Stats"/>
-  </picture>
-</div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ulims&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc&border_radius=12">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ulims&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666&border_radius=12" alt="GitHub Streak"/>
-  </picture>
-</div>
 
 <div align="center">
   <picture>
