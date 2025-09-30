@@ -127,6 +127,10 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <br/>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ulims&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulims&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000" alt="GitHub Streak Stats"/>
+  </picture>
 </div>
 
 
