@@ -145,16 +145,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+       <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulims&theme=github_dark">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulims&theme=github" alt="Most Commit Language"/>
+        </picture>
+      </td>
+            <td align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulims&theme=github_dark&hide=html,css">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulims&theme=github&hide=html,css" alt="Repos Per Language"/>
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulims&theme=github_dark&utcOffset=1">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulims&theme=github&utcOffset=1" alt="Productive Time"/>
         </picture>
       </td>
     </tr>
@@ -169,22 +169,6 @@
   <p>🔨 <strong>Currently building amazing things...</strong></p>
   <p>Check out my repositories below to see what I'm working on!</p>
   <br/>
-  <table>
-    <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulims&theme=github_dark">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulims&theme=github" alt="Most Commit Language"/>
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ulims&theme=github_dark">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ulims&theme=github" alt="Profile Stats"/>
-        </picture>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
